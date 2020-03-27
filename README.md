@@ -30,4 +30,4 @@ double loanAmount
 ### Screenshots:
 
 ![ApplicationForm-screen](Docs/ApplicationForm.png)
-![ApplicationList-screen](docs/ApplicationList.png)
+![ApplicationList-screen](Docs/ApplicationList.png)
